@@ -7,7 +7,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [IP Geolocation and Online Fraud Prevention | MaxMind](https://www.maxmind.com/en/home): Servicio de geolocalización IP y prevención de fraude.
 - [IP location (Geolocation)](https://www.iplocation.net/): Herramienta OSINT para recolección de información.
 - [WHOIS IP Lookup Tool | UltraTools](https://www.ultratools.com/tools/ipWhoisLookup): Consulta información WHOIS sobre direcciones IP.
-- [Whois Lookup, Domain Availability & IP Search - DomainTools](https://whois.domaintools.com/): Búsqueda WHOIS y disponibilidad de dominios.
+- [DomainTools - Whois Lookup, Domain Availability & IP Search ](https://whois.domaintools.com/): Búsqueda WHOIS y disponibilidad de dominios.
 - [IP Address Geolocation Lookup Demo | IP2Location](https://ip2location.com/demo/200.107.15.222): Localiza direcciones IP y consulta detalles de ubicación.
 - [IP Logger Acortador de URL - Registrar y rastrear direcciones IP](https://iplogger.org/es/): Herramienta OSINT para recolección de información.
 - [Grabify IP Logger & URL Shortener](https://grabify.link/?__cf_chl_jschl_tk__=pmd_78bd30abf4381f70506b789965ac8eaffdf6bdf8-1627744065-0-gqNtZGzNAg2jcnBszQii): Acorta enlaces y rastrea direcciones IP.

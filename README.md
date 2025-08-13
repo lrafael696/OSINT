@@ -21,9 +21,11 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Google Cached Pages of Any Website - CachedView](http://cachedview.com/): Consulta páginas web almacenadas en caché por Google.
 
 ## Información de Ecuador
-- [Ministerio del Trabajo- Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
-- [Ministerio del Trabajo- Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
-- [SENESCYT - Consulta de TITULOS](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
+- [Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
+- [Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
+- [Consulta de Títutlos](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
+- [Identificar el Número de Identidad](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Identificar el CI de una persona a partir de apellidos y nombres
+- [Identificar el Nombres de una Persona](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Identificar los nombres completos de una persona a partir de su número de identidad
 
 
 

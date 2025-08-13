@@ -37,6 +37,16 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Valores a pagar en Pichincha](https://www.amt.gob.ec/index.php/servicios/servicios-en-linea/consulta-tus-valores-a-pagar/): Portal que permite consultar valores a pagar en el districto metropolitano de quito
 
 
+## Correo Electrónico 
+- [Epieos, the ultimate OSINT tool](https://epieos.com/): Búsquedas inversas de correos electrónicos y números de teléfono
+- [Validador de correos electrónicos](https://domain-checker.valimail.com/dmarc/tabacarcen.com): Herramienta para validar la existencia de un correo electrónico
+- [Analizador de encabezados de mensajes - MailHeader](https://mailheader.org/): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Analizador de encabezados de mensajes - Google ](https://toolbox.googleapps.com/apps/messageheader/?lang=es): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Analizador de encabezados de mensajes - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
+
+
+
+
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.
 - [PhishTank | Únete a la lucha contra el phishing](http://phishtank.com/): Herramienta OSINT para recolección de información.
@@ -44,7 +54,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Gophish - Open Source Phishing Framework](https://getgophish.com/#features): Herramienta OSINT para recolección de información.
 - [OSINT Framework](https://osintframework.com/): Herramienta OSINT para recolección de información.
 - [Discard - Credit Card Generator with BIN and with CVV - ElfQrin](https://www.elfqrin.com/discard_credit_card_generator.php): Herramienta OSINT para recolección de información.
-- [Email Sender Identity Verification, Authentication & Security Solutions | Valimail](https://domain-checker.valimail.com/dmarc/tabacarcen.com): Herramienta OSINT para recolección de información.
 - [IrfanView](https://www.irfanview.com/): Herramienta OSINT para recolección de información.
 - [Yandex](https://yandex.com/): Herramienta OSINT para recolección de información.
 - [BrowserLeaks - Web Browser Fingerprinting - Browsing Privacy](https://browserleaks.com/): Herramienta OSINT para recolección de información.
@@ -61,7 +70,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [VPN & Proxy Detection Tool](https://ip.teoh.io/vpn-detection): Herramienta OSINT para recolección de información.
 - [Can Find your WordPress Username - WP-Tweaks](https://www.wp-tweaks.com/hackers-can-find-your-wordpress-username/): Herramienta OSINT para recolección de información.
 - [Portal de Información Superintendencia de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta OSINT para recolección de información.
-- [Analyze my mail header](https://mailheader.org/): Herramienta OSINT para recolección de información.
 - [Comprobar Correo – Validar email – Limpiar tu lista de correos](https://www.comprobarcorreo.com/): Herramienta OSINT para recolección de información.
 - [ZoomEye cyberspace mapping](https://www.zoomeye.org/): Herramienta OSINT para recolección de información.
 - [URL and website scanner - urlscan.io](https://urlscan.io/): Herramienta OSINT para recolección de información.
@@ -69,7 +77,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/): Herramienta OSINT para recolección de información.
 - [Remini - AI Photo Enhancer](https://remini.ai/): Herramienta OSINT para recolección de información.
 - [fake social media](https://prankshit.com/index.php): Herramienta OSINT para recolección de información.
-- [Epieos, the ultimate OSINT tool](https://epieos.com/): Herramienta OSINT para recolección de información.
 - [OSINT Industries | Powerful Tools for Accurate Investigations](https://www.osint.industries/): Herramienta OSINT para recolección de información.
 - [Piokok | Instagram viewer and downloader](https://www.piokok.com/): Herramienta OSINT para recolección de información.
 

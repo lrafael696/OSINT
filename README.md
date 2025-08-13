@@ -9,14 +9,24 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [WHOIS IP Lookup Tool | UltraTools](https://www.ultratools.com/tools/ipWhoisLookup): Consulta información WHOIS sobre direcciones IP.
 - [Whois Lookup, Domain Availability & IP Search - DomainTools](https://whois.domaintools.com/): Búsqueda WHOIS y disponibilidad de dominios.
 - [IP Address Geolocation Lookup Demo | IP2Location](https://ip2location.com/demo/200.107.15.222): Localiza direcciones IP y consulta detalles de ubicación.
-- [IP Context - Spur](https://spur.us/context/89.187.185.171): Identificador de Proveedores de IP sospechosas como VPN, Proxys, etc. 
 - [IP Logger Acortador de URL - Registrar y rastrear direcciones IP](https://iplogger.org/es/): Herramienta OSINT para recolección de información.
 - [Grabify IP Logger & URL Shortener](https://grabify.link/?__cf_chl_jschl_tk__=pmd_78bd30abf4381f70506b789965ac8eaffdf6bdf8-1627744065-0-gqNtZGzNAg2jcnBszQii): Acorta enlaces y rastrea direcciones IP.
 - [Current IP Check](http://checkip.dyndns.org/): Herramienta OSINT para recolección de información.
-- [Proxy & VPN Detection API | Accurate IP Data Solutions - IPinfo.io](https://ipinfo.io/products/proxy-vpn-detection-api): Herramienta OSINT para recolección de información.
+
+- ## Identificación de Proveedores de VPN, Proxys
+- [Spur](https://spur.us/context/89.187.185.171): Identificador de Proveedores de IP sospechosas como VPN, Proxys, etc. 
+- [IPinfo.io](https://ipinfo.io/products/proxy-vpn-detection-api): Identifador de IP, Geolocalización y ASN
 
 ## Búsqueda en Caché
 - [Google Cached Pages of Any Website - CachedView](http://cachedview.com/): Consulta páginas web almacenadas en caché por Google.
+
+## Información de Ecuador
+- [Ministerio del Trabajo- Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
+- [Ministerio del Trabajo- Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
+- [SENESCYT - Consulta de TITULOS](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
+
+
+
 
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.
@@ -40,7 +50,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [MSP - Ministerio de Salud Publica](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Herramienta OSINT para recolección de información.
 - [Secap CI](http://si.secap.gob.ec/sisecap/servicioObtieneDatosRegistroCivil.php?num_doc=): Herramienta OSINT para recolección de información.
 - [SRI en Línea](https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/ConsultaImpuestoRenta/Consultas/consultaImpuestoRenta): Herramienta OSINT para recolección de información.
-- [SENESCYT - TITULOS](https://www.senescyt.gob.ec/web/guest/consultas): Herramienta OSINT para recolección de información.
+
 - [Interdin - DINERSCLUB PLACA](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Herramienta OSINT para recolección de información.
 - [Guía Telefónica CNT, ETAPA, CLARO. Búsqueda de númerode teléfonos y personas en Ecuador. EDINA|Páginas Amarillas Ecuador](https://www.edina.com.ec/personas): Herramienta OSINT para recolección de información.
 - [AutoDatoEC](https://www.autodatoec.com/): Herramienta OSINT para recolección de información.
@@ -62,7 +72,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Epieos, the ultimate OSINT tool](https://epieos.com/): Herramienta OSINT para recolección de información.
 - [OSINT Industries | Powerful Tools for Accurate Investigations](https://www.osint.industries/): Herramienta OSINT para recolección de información.
 - [Piokok | Instagram viewer and downloader](https://www.piokok.com/): Herramienta OSINT para recolección de información.
-- [Ministerio del Trabajo](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Herramienta OSINT para recolección de información.
+
 - [DNSDumpster](https://dnsdumpster.com/): Herramienta OSINT para recolección de información.
 - [VPN Detection Test | nodedata.io](https://nodedata.io/vpn-detection-test): Herramienta OSINT para recolección de información.
 - [Ivan castañeda - Start.me](https://start.me/p/RnM8l5/ivan-castaneda): Herramienta OSINT para recolección de información.

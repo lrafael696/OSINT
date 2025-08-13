@@ -27,7 +27,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Consulta de Títutlos](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
 - [Identificar el Número de Identidad](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar el número de identidad de una persona a partir de apellidos y nombres
 - [Identificar el Nombres de una Persona](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar los nombres completos de una persona a partir de su número de identidad
-- [Identificación del deuño de un vehiculo](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Portal que permite identificar el dueño de un vehícuulo a partir de una PLACA
+- [Identificación del dueño de un vehiculo](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Portal que permite identificar el dueño de un vehícuulo a partir de una PLACA
 - [Guía Telefónica CNT, ETAPA, CLARO. Búsqueda de númerode teléfonos y personas en Ecuador. EDINA|Páginas Amarillas Ecuador](https://www.edina.com.ec/personas): Herramienta OSINT para recolección de información.
 - [AutoDatoEC](https://www.autodatoec.com/): Herramienta OSINT para recolección de información.
 - [Registro Civil](https://servicios.registrocivil.gob.ec/cdd/): Herramienta OSINT para recolección de información.

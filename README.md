@@ -45,8 +45,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Analizador de encabezados de mensajes - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
 
 
-
-
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.
 - [PhishTank | Únete a la lucha contra el phishing](http://phishtank.com/): Herramienta OSINT para recolección de información.

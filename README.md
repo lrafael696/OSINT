@@ -16,6 +16,9 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - ## Identificación de Proveedores de VPN, Proxys
 - [Spur](https://spur.us/context/89.187.185.171): Identificador de Proveedores de IP sospechosas como VPN, Proxys, etc. 
 - [IPinfo.io](https://ipinfo.io/products/proxy-vpn-detection-api): Identifador de IP, Geolocalización y ASN
+- [Detector de VPN & Proxy](https://ip.teoh.io/vpn-detection): Herramienta para detectar VPN y Proxys
+- [Detector de VPN | nodedata.io](https://nodedata.io/vpn-detection-test): Herramienta para detectar VPN y Proxys
+
 
 ## Búsqueda en Caché
 - [Google Cached Pages of Any Website - CachedView](http://cachedview.com/): Consulta páginas web almacenadas en caché por Google.
@@ -35,14 +38,20 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Registro Social-SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Permite identificar si una persona se encuentra registrado en la base de datos del Registro Social, se requiere como dato de ingreso el número de cedula
 - [Citaciones de tránsito ](https://consultaweb.ant.gob.ec/PortalWEB/paginas/clientes/clp_criterio_consulta.jsp): Busqueda de citaciones de tránsito a partir de una cédula o placa
 - [Valores a pagar en Pichincha](https://www.amt.gob.ec/index.php/servicios/servicios-en-linea/consulta-tus-valores-a-pagar/): Portal que permite consultar valores a pagar en el districto metropolitano de quito
+- [Información de Compañías](https://appscvsgen.supercias.gob.ec/consultaCompanias/societario/busquedaCompanias.jsf): Herramienta consultar información de una compañia
+- [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta consultar información de una compañia 
+
 
 
 ## Correo Electrónico 
 - [Epieos, the ultimate OSINT tool](https://epieos.com/): Búsquedas inversas de correos electrónicos y números de teléfono
 - [Validador de correos electrónicos](https://domain-checker.valimail.com/dmarc/tabacarcen.com): Herramienta para validar la existencia de un correo electrónico
-- [Analizador de encabezados de mensajes - MailHeader](https://mailheader.org/): Herramienta para realizar un analisis del encabezado de un correo electrónico
-- [Analizador de encabezados de mensajes - Google ](https://toolbox.googleapps.com/apps/messageheader/?lang=es): Herramienta para realizar un analisis del encabezado de un correo electrónico
-- [Analizador de encabezados de mensajes - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Comprobar valides de un correo](https://www.comprobarcorreo.com/): Herramienta para validar la existencia de un correo electrónico
+- [Analizador de encabezados de correos - MailHeader](https://mailheader.org/): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Analizador de encabezados de correos - Google ](https://toolbox.googleapps.com/apps/messageheader/?lang=es): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Analizador de encabezados de correos - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
+
+
 
 
 ## Otros
@@ -65,10 +74,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [start.me - sara.osint](https://start.me/p/onblLD/sara-osint): Herramienta OSINT para recolección de información.
 - [MSP - Ministerio de Salud Publica](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Herramienta OSINT para recolección de información.
 - [Secap CI](http://si.secap.gob.ec/sisecap/servicioObtieneDatosRegistroCivil.php?num_doc=): Herramienta OSINT para recolección de información.
-- [VPN & Proxy Detection Tool](https://ip.teoh.io/vpn-detection): Herramienta OSINT para recolección de información.
 - [Can Find your WordPress Username - WP-Tweaks](https://www.wp-tweaks.com/hackers-can-find-your-wordpress-username/): Herramienta OSINT para recolección de información.
-- [Portal de Información Superintendencia de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta OSINT para recolección de información.
-- [Comprobar Correo – Validar email – Limpiar tu lista de correos](https://www.comprobarcorreo.com/): Herramienta OSINT para recolección de información.
 - [ZoomEye cyberspace mapping](https://www.zoomeye.org/): Herramienta OSINT para recolección de información.
 - [URL and website scanner - urlscan.io](https://urlscan.io/): Herramienta OSINT para recolección de información.
 - [Webmii](https://webmii.com/): Herramienta OSINT para recolección de información.
@@ -79,7 +85,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Piokok | Instagram viewer and downloader](https://www.piokok.com/): Herramienta OSINT para recolección de información.
 
 - [DNSDumpster](https://dnsdumpster.com/): Herramienta OSINT para recolección de información.
-- [VPN Detection Test | nodedata.io](https://nodedata.io/vpn-detection-test): Herramienta OSINT para recolección de información.
 - [Ivan castañeda - Start.me](https://start.me/p/RnM8l5/ivan-castaneda): Herramienta OSINT para recolección de información.
 - [osint.rocks](https://osint.rocks/): Herramienta OSINT para recolección de información.
 

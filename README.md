@@ -27,8 +27,14 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Identificar el Número de Identidad](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar el número de identidad de una persona a partir de apellidos y nombres
 - [Identificar el Nombres de una Persona](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar los nombres completos de una persona a partir de su número de identidad
 
-
-
+- [SRI en Línea](https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/ConsultaImpuestoRenta/Consultas/consultaImpuestoRenta): Herramienta OSINT para recolección de información.
+- [Interdin - DINERSCLUB PLACA](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Herramienta OSINT para recolección de información.
+- [Guía Telefónica CNT, ETAPA, CLARO. Búsqueda de númerode teléfonos y personas en Ecuador. EDINA|Páginas Amarillas Ecuador](https://www.edina.com.ec/personas): Herramienta OSINT para recolección de información.
+- [AutoDatoEC](https://www.autodatoec.com/): Herramienta OSINT para recolección de información.
+- [Registro Civil](https://servicios.registrocivil.gob.ec/cdd/): Herramienta OSINT para recolección de información.
+- [DELITOS](https://www.gestiondefiscalias.gob.ec/siaf/informacion/web/noticiasdelito/index.php): Herramienta OSINT para recolección de información.
+- [Causas Judiciales - eSATJE](http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf): Herramienta OSINT para recolección de información.
+- [SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Herramienta OSINT para recolección de información.
 
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.
@@ -51,15 +57,6 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [start.me - sara.osint](https://start.me/p/onblLD/sara-osint): Herramienta OSINT para recolección de información.
 - [MSP - Ministerio de Salud Publica](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Herramienta OSINT para recolección de información.
 - [Secap CI](http://si.secap.gob.ec/sisecap/servicioObtieneDatosRegistroCivil.php?num_doc=): Herramienta OSINT para recolección de información.
-- [SRI en Línea](https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/ConsultaImpuestoRenta/Consultas/consultaImpuestoRenta): Herramienta OSINT para recolección de información.
-
-- [Interdin - DINERSCLUB PLACA](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Herramienta OSINT para recolección de información.
-- [Guía Telefónica CNT, ETAPA, CLARO. Búsqueda de númerode teléfonos y personas en Ecuador. EDINA|Páginas Amarillas Ecuador](https://www.edina.com.ec/personas): Herramienta OSINT para recolección de información.
-- [AutoDatoEC](https://www.autodatoec.com/): Herramienta OSINT para recolección de información.
-- [Registro Civil](https://servicios.registrocivil.gob.ec/cdd/): Herramienta OSINT para recolección de información.
-- [DELITOS](https://www.gestiondefiscalias.gob.ec/siaf/informacion/web/noticiasdelito/index.php): Herramienta OSINT para recolección de información.
-- [Causas Judiciales - eSATJE](http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf): Herramienta OSINT para recolección de información.
-- [SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Herramienta OSINT para recolección de información.
 - [VPN & Proxy Detection Tool](https://ip.teoh.io/vpn-detection): Herramienta OSINT para recolección de información.
 - [Can Find your WordPress Username - WP-Tweaks](https://www.wp-tweaks.com/hackers-can-find-your-wordpress-username/): Herramienta OSINT para recolección de información.
 - [Portal de Información Superintendencia de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta OSINT para recolección de información.

@@ -21,7 +21,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Google Cached Pages of Any Website - CachedView](http://cachedview.com/): Consulta páginas web almacenadas en caché por Google.
   
 
-## Información Públoca de Ecuador
+## Información Pública de Ecuador
 - [Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
 - [Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
 - [Consulta de Títutlos](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
@@ -33,6 +33,9 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Búsqueda de Delitos](https://www.gestiondefiscalias.gob.ec/siaf/informacion/web/noticiasdelito/index.php): Herramienta para bucar noticias de delito de una persona, se lo puede hacer a partir de Nombres y Apellidos, Cédula, RUC, Número de noticia del delito, PLaca
 - [Procesos Judiciales - eSATJE](http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf): Permite buscar si una persona cuenta con procesos judiciales 
 - [Registro Social-SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Permite identificar si una persona se encuentra registrado en la base de datos del Registro Social, se requiere como dato de ingreso el número de cedula
+- [Citaciones de tránsito ](https://consultaweb.ant.gob.ec/PortalWEB/paginas/clientes/clp_criterio_consulta.jsp): Busqueda de citaciones de tránsito a partir de una cédula o placa
+- [Valores a pagar en Pichincha](https://www.amt.gob.ec/index.php/servicios/servicios-en-linea/consulta-tus-valores-a-pagar/): Portal que permite consultar valores a pagar en el districto metropolitano de quito
+
 
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.

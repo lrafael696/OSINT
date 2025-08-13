@@ -39,7 +39,9 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Citaciones de tránsito ](https://consultaweb.ant.gob.ec/PortalWEB/paginas/clientes/clp_criterio_consulta.jsp): Busqueda de citaciones de tránsito a partir de una cédula o placa
 - [Valores a pagar en Pichincha](https://www.amt.gob.ec/index.php/servicios/servicios-en-linea/consulta-tus-valores-a-pagar/): Portal que permite consultar valores a pagar en el districto metropolitano de quito
 - [Información de Compañías](https://appscvsgen.supercias.gob.ec/consultaCompanias/societario/busquedaCompanias.jsf): Herramienta consultar información de una compañia
-- [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta consultar información de una compañia 
+- [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta consultar información de una compañia
+- [Cobertura de Salud - MSP ](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Consultas sobre cobertura de salud (IESS-ISSFA-ISSPOL)
+
 
 
 
@@ -50,6 +52,8 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Analizador de encabezados de correos - MailHeader](https://mailheader.org/): Herramienta para realizar un analisis del encabezado de un correo electrónico
 - [Analizador de encabezados de correos - Google ](https://toolbox.googleapps.com/apps/messageheader/?lang=es): Herramienta para realizar un analisis del encabezado de un correo electrónico
 - [Analizador de encabezados de correos - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
+- [Filtración de correos electrónicos - Have I Been Pwned](https://haveibeenpwned.com/): Herramienta para identificar si el correo electróniso se encontró en una filtración de datos
+
 
 
 
@@ -69,11 +73,8 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper): Herramienta OSINT para recolección de información.
 - [OnionTree](https://oniontree.org/): Herramienta OSINT para recolección de información.
 - [GitHub - fortysev-en/pdf-looking-windows-keylogger: A PDF looking keylogger for Windows](https://github.com/fortysev-en/pdf-looking-windows-keylogger): Herramienta OSINT para recolección de información.
-- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/): Herramienta OSINT para recolección de información.
 - [Hoverwatch](https://www.hoverwatch.com/es/): Herramienta OSINT para recolección de información.
 - [start.me - sara.osint](https://start.me/p/onblLD/sara-osint): Herramienta OSINT para recolección de información.
-- [MSP - Ministerio de Salud Publica](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Herramienta OSINT para recolección de información.
-- [Secap CI](http://si.secap.gob.ec/sisecap/servicioObtieneDatosRegistroCivil.php?num_doc=): Herramienta OSINT para recolección de información.
 - [Can Find your WordPress Username - WP-Tweaks](https://www.wp-tweaks.com/hackers-can-find-your-wordpress-username/): Herramienta OSINT para recolección de información.
 - [ZoomEye cyberspace mapping](https://www.zoomeye.org/): Herramienta OSINT para recolección de información.
 - [URL and website scanner - urlscan.io](https://urlscan.io/): Herramienta OSINT para recolección de información.

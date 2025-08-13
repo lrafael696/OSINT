@@ -28,12 +28,11 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Identificar el Número de Identidad](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar el número de identidad de una persona a partir de apellidos y nombres
 - [Identificar el Nombres de una Persona](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar los nombres completos de una persona a partir de su número de identidad
 - [Identificación del dueño de un vehiculo](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Portal que permite identificar el dueño de un vehícuulo a partir de una PLACA
-- [Guía Telefónica CNT, ETAPA, CLARO. Búsqueda de númerode teléfonos y personas en Ecuador. EDINA|Páginas Amarillas Ecuador](https://www.edina.com.ec/personas): Herramienta OSINT para recolección de información.
-- [AutoDatoEC](https://www.autodatoec.com/): Herramienta OSINT para recolección de información.
-- [Registro Civil](https://servicios.registrocivil.gob.ec/cdd/): Herramienta OSINT para recolección de información.
-- [DELITOS](https://www.gestiondefiscalias.gob.ec/siaf/informacion/web/noticiasdelito/index.php): Herramienta OSINT para recolección de información.
-- [Causas Judiciales - eSATJE](http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf): Herramienta OSINT para recolección de información.
-- [SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Herramienta OSINT para recolección de información.
+- [Guía Telefónica CNT](https://www.micnt.com.ec/cntapp/guia104/php/guia_cntat.php?hflagsubmit=0&cmbcriterio=1): Herramienta para identificar los dueños de un número de teléfono convencional de CNT
+- [Guía Telefónica ETAPA](https://www.etapa.net.ec/wp-content/uploads/2025/06/Guia-Telefonica-Cuenca-2025.pdf): Herramienta para identificar los dueños de un número de teléfono convencional de ETAPA
+- [Búsqueda de Delitos](https://www.gestiondefiscalias.gob.ec/siaf/informacion/web/noticiasdelito/index.php): Herramienta para bucar noticias de delito de una persona, se lo puede hacer a partir de Nombres y Apellidos, Cédula, RUC, Número de noticia del delito, PLaca
+- [Procesos Judiciales - eSATJE](http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf): Permite buscar si una persona cuenta con procesos judiciales 
+- [Registro Social-SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Permite identificar si una persona se encuentra registrado en la base de datos del Registro Social, se requiere como dato de ingreso el número de cedula
 
 ## Otros
 - [Ninite: instala o actualiza varias aplicaciones a la vez](https://ninite.com/): Herramienta OSINT para recolección de información.

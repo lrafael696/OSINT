@@ -52,7 +52,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Analizador de encabezados de correos - MailHeader](https://mailheader.org/): Herramienta para realizar un analisis del encabezado de un correo electrónico
 - [Analizador de encabezados de correos - Google ](https://toolbox.googleapps.com/apps/messageheader/?lang=es): Herramienta para realizar un analisis del encabezado de un correo electrónico
 - [Analizador de encabezados de correos - Mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para realizar un analisis del encabezado de un correo electrónico
-- [Filtración de correos electrónicos - Have I Been Pwned](https://haveibeenpwned.com/): Herramienta para identificar si el correo electróniso se encontró en una filtración de datos
+- [Filtración de correos electrónicos - Have I Been Pwned](https://haveibeenpwned.com/): Identificación si el correo electrónico se encontró en una filtración de datos
 
 
 

@@ -12,6 +12,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 
 
 ## Geolocalización e Información de IP
+- [MiLACNIC Query](https://query.milacnic.lacnic.net/home): Muestra información de IRR, RDAP, WHOIS, RDAP Web, Lacnic Tools.
 - [WhatIsMyIP.com®](https://www.whatismyip.com/es/): Muestra tu IP pública y datos básicos de conexión.
 - [IP Geolocation and Online Fraud Prevention | MaxMind](https://www.maxmind.com/en/home): Servicio de geolocalización IP y prevención de fraude.
 - [IP location (Geolocation)](https://www.iplocation.net/): Herramienta OSINT para recolección de información.
